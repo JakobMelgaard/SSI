@@ -1,1 +1,0 @@
-# nanopore-QC-pipeline
